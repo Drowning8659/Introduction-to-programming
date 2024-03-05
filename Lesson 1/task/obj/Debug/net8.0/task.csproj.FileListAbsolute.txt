@@ -1,0 +1,14 @@
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\bin\Debug\net8.0\task.exe
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\bin\Debug\net8.0\task.deps.json
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\bin\Debug\net8.0\task.runtimeconfig.json
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\bin\Debug\net8.0\task.dll
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\bin\Debug\net8.0\task.pdb
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\task.dll
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\refint\task.dll
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\task.pdb
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 1\task\obj\Debug\net8.0\ref\task.dll
