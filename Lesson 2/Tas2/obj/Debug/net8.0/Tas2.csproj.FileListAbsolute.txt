@@ -1,0 +1,15 @@
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\bin\Debug\net8.0\Tas2.exe
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\bin\Debug\net8.0\Tas2.deps.json
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\bin\Debug\net8.0\Tas2.runtimeconfig.json
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\bin\Debug\net8.0\Tas2.dll
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\bin\Debug\net8.0\Tas2.pdb
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.AssemblyInfoInputs.cache
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.AssemblyInfo.cs
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.csproj.CoreCompileInputs.cache
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.sourcelink.json
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.dll
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\refint\Tas2.dll
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.pdb
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\Tas2.genruntimeconfig.cache
+C:\Users\egori\OneDrive\Рабочий стол\знакомство с програмированием\Lesson 2\Tas2\obj\Debug\net8.0\ref\Tas2.dll
