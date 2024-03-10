@@ -21,4 +21,5 @@ if (e > max)
 {
     max = e;
 }
+Console.WriteLine("Maximum is:");
  Console.WriteLine(max);
